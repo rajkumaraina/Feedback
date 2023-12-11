@@ -1,0 +1,11 @@
+.cont {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emoji {
+  width: 54px;
+  height: 54px;
+}
